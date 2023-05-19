@@ -1,0 +1,15 @@
+C:\Users\camil\Meu Drive\DIO\Bootcamp Microsoft Dynamics 365\Desafios\DesafioHospedagem\bin\Debug\net7.0\Desafios.exe
+C:\Users\camil\Meu Drive\DIO\Bootcamp Microsoft Dynamics 365\Desafios\DesafioHospedagem\bin\Debug\net7.0\Desafios.deps.json
+C:\Users\camil\Meu Drive\DIO\Bootcamp Microsoft Dynamics 365\Desafios\DesafioHospedagem\bin\Debug\net7.0\Desafios.runtimeconfig.json
+C:\Users\camil\Meu Drive\DIO\Bootcamp Microsoft Dynamics 365\Desafios\DesafioHospedagem\bin\Debug\net7.0\Desafios.dll
+C:\Users\camil\Meu Drive\DIO\Bootcamp Microsoft Dynamics 365\Desafios\DesafioHospedagem\bin\Debug\net7.0\Desafios.pdb
+C:\Users\camil\Meu Drive\DIO\Bootcamp Microsoft Dynamics 365\Desafios\DesafioHospedagem\obj\Debug\net7.0\Desafios.csproj.AssemblyReference.cache
+C:\Users\camil\Meu Drive\DIO\Bootcamp Microsoft Dynamics 365\Desafios\DesafioHospedagem\obj\Debug\net7.0\Desafios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\Meu Drive\DIO\Bootcamp Microsoft Dynamics 365\Desafios\DesafioHospedagem\obj\Debug\net7.0\Desafios.AssemblyInfoInputs.cache
+C:\Users\camil\Meu Drive\DIO\Bootcamp Microsoft Dynamics 365\Desafios\DesafioHospedagem\obj\Debug\net7.0\Desafios.AssemblyInfo.cs
+C:\Users\camil\Meu Drive\DIO\Bootcamp Microsoft Dynamics 365\Desafios\DesafioHospedagem\obj\Debug\net7.0\Desafios.csproj.CoreCompileInputs.cache
+C:\Users\camil\Meu Drive\DIO\Bootcamp Microsoft Dynamics 365\Desafios\DesafioHospedagem\obj\Debug\net7.0\Desafios.dll
+C:\Users\camil\Meu Drive\DIO\Bootcamp Microsoft Dynamics 365\Desafios\DesafioHospedagem\obj\Debug\net7.0\refint\Desafios.dll
+C:\Users\camil\Meu Drive\DIO\Bootcamp Microsoft Dynamics 365\Desafios\DesafioHospedagem\obj\Debug\net7.0\Desafios.pdb
+C:\Users\camil\Meu Drive\DIO\Bootcamp Microsoft Dynamics 365\Desafios\DesafioHospedagem\obj\Debug\net7.0\Desafios.genruntimeconfig.cache
+C:\Users\camil\Meu Drive\DIO\Bootcamp Microsoft Dynamics 365\Desafios\DesafioHospedagem\obj\Debug\net7.0\ref\Desafios.dll
